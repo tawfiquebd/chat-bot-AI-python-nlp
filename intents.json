@@ -1,0 +1,120 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "patterns": [
+        "hello",
+        "hey",
+        "hi",
+        "hei",
+        "halo",
+        "hola",
+        "hallo",
+        "greetings",
+        "whats up?",
+        "what's up",
+        "what's up?",
+        "what's going on?",
+        "how is going?",
+        "how is it going?",
+        "how are you?",
+        "how are you bro?",
+        "whats up bro?",
+        "how you doing?"
+      ],
+      "responses": [
+        "Hello!",
+        "Hey",
+        "What can I do for you?",
+        "Hi"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "bye",
+        "good bye",
+        "see you",
+        "see you again",
+        "see you later",
+        "bye bye",
+        "Goodbye",
+        "tata",
+        "I am leaving",
+        "Have a good day",
+        "cao",
+        "see ya"
+      ],
+      "responses": [
+        "Sad to see you go :-( ",
+        "Good bye!",
+        "Ok, Bye",
+        "Tata",
+        "Goodbye!",
+        "Bye Bye!"
+      ]
+    },
+    {
+      "tag": "age",
+      "patterns": [
+        "how old",
+        "how old are you?",
+        "how old you are?",
+        "what is your age",
+        "age?",
+        "your age?"
+      ],
+      "responses": [
+        "My owner Tawfique is 26 years old!",
+        "26 years!",
+        "I am 26 years old!"
+      ]
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "What is your name?",
+        "what's your name?",
+        "what's your name bro?",
+        "what's your full name? ",
+        "what's your nick name? ",
+        "are you robot?",
+        "are you a robot?",
+        "your name?",
+        "your name please?",
+        "who are you?",
+        "what should i call you?",
+        "name?",
+        "can you tell me your name?"
+      ],
+      "responses": [
+        "You can call me RoboBro",
+        "I am RoboBro!",
+        "I am RoboBro, the assistant of Tawfique"
+      ]
+    },
+    {
+      "tag": "work",
+      "patterns": [
+        "What can you do for me?",
+        "do for me?",
+        "do something for me?",
+        "can you do for me?",
+        "can you do something for me?",
+        "can you do work for me?",
+        "can you do some work for me?",
+        "can you help me?",
+        "can you help me to do something?",
+        "can you help me to do some work?"
+      ],
+      "responses": [
+        "Yes, I can",
+        "Yes, I can, but its not the time to do something!",
+        "Yes, I can, but not now",
+        "Yes, I can, But i am still in developing",
+        "Yes, I can, Tell me what you want?",
+        "Yes, But i am under development, So, i will take bit long time"
+      ]
+    }
+  ]
+}
